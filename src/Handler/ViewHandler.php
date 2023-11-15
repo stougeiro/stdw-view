@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-    namespace STDW\Cache\Handler;
+    namespace STDW\View\Handler;
 
     use STDW\Contract\ViewHandlerInterface;
     use STDW\View\Exception\ViewFileNotFoundException;

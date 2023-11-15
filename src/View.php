@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-    namespace STDW\Cache;
+    namespace STDW\View;
 
     use STDW\Contract\ViewInterface;
     use STDW\Contract\ViewHandlerInterface;
